@@ -3,7 +3,7 @@
 </main>
 
 <style lang="scss">
-  * {
+  :global(*) {
     box-sizing: border-box;
   }
 
